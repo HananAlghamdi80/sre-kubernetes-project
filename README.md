@@ -1,4 +1,9 @@
-# sre-kubernetes-project
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HananAlghamdi80/sre-kubernetes-project/main/hananDig.png" width="100%">
+</p>
+
+
+
 
 # SRE Project on Azure Kubernetes Service (AKS)
 
